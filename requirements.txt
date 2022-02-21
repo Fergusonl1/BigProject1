@@ -1,1 +1,1 @@
-python-vex==1.0.0
+vexcode
