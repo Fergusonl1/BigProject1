@@ -1,5 +1,5 @@
 from timer import Timer
-from vexcode import *
+import vex
 
 
 drivetrain = Drivetrain()
