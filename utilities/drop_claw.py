@@ -34,4 +34,4 @@ class Drop_Claw:
 		while current_pos != z_limit:
 			current_pos = current_pos - 1
 			t.sleep(0.2)
-		return True 
+		return True
